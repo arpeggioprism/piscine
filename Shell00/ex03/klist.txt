@@ -1,0 +1,5 @@
+ cache: API:621139F7-1D53-434B-A473-9B407C4E8082
+        Principal: jshin@42SEOUL.KR
+
+  Issued                Expires               Principal
+Sep  6 20:24:35 2021  Sep  7 06:24:35 2021  krbtgt/42SEOUL.KR@42SEO
